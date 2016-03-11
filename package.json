@@ -1,0 +1,12 @@
+{
+  "name": "quantum_service",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./quantum"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "quantum-crypto": "^1.0.1"
+  }
+}
