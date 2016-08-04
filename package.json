@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "~4.2.0",
-    "quantum-crypto": "^1.0.1"
+    "quantum-crypto": "^2.0.1"
   }
 }

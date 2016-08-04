@@ -10,3 +10,6 @@ pids
 # Node
 build/Release
 /node_modules/*
+
+*.json
+*.rb
